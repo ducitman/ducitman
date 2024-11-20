@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ducitman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#, python
-- 💞️ I’m looking to collaborate on my project
+- 💞️ I’m looking for collaborate on my project
 - 📫 How to reach me ducitman@gmail.com
 
 <!---
