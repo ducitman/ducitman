@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Duc. Now, I'm working at IT department of a shipbuilding corporation. My experience is develop the applications, tools for supporting production system for BridgeStone Viet Nam and application to management inventory for JSC company! I’m currently working with python, low-code for MS, C#, AI Agent. 💞️ I’m looking for collaborate on my project.
+👋 Hi, I’m Duc. Now, I'm working at IT department of a shipbuilding corporation.
+<br>
+ My experience is develop the applications, tools for supporting production system for BridgeStone Viet Nam and application to management inventory for JSC company! 
+ <br>
+ I’m currently working with python, low-code for MS, C#, AI Agent. 💞️ I’m looking for collaborate on my project.
   
   <br>
   <div>
@@ -33,6 +37,17 @@
     <img src="https://github.com/ducitman/personal-content/blob/main/logos/Microsoft Copilot Studio.png" alt="Agent AI Logo" width="100" />
     </a>
   </div>
+  
+📌📌📌 Now I'm handling the solution architect to create the Internal AI for business. I'm researching MS Copilot Studio 
+    <a href="https://copilotstudio.microsoft.com" rel="nofollow">
+    <img src="https://github.com/ducitman/personal-content/blob/main/logos/Microsoft Copilot Studio.png" alt="Agent AI Logo" width="100" />
+    </a>, Ollama  
+    <a href="https://ollama.com/" rel="nofollow">
+    <img src="https://github.com/ducitman/personal-content/blob/main/logos/4g3p3ota.png" alt="Ollama Logo" width="48" />
+    </a> to manage the available AI models easily and boost the effectiveness,  using Open Web UI open source 
+    <a href="https://github.com/open-webui/open-webui" rel="nofollow">
+    <img src="https://github.com/ducitman/personal-content/blob/main/logos/open-web-ui.png" alt="Open Web UI Logo" width="48" />
+    </a> for deployment of the chat conversation UI and management functionalities.
   
 📫 How to reach me ducitman@gmail.com.
 
